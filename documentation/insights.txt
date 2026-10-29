@@ -1,0 +1,32 @@
+1. Product Category Performance
+
+- Bikes generated the highest internet sales revenue at approximately 28.32 million, significantly ahead of Accessories and Clothing.
+- Accessories sold the most units at 36,092, compared with 15,205 Bikes. This shows that Bikes' revenue leadership is not caused by higher sales volume.
+- Bikes had a much higher average unit price at approximately 1,862, helping explain why the category generates substantially more revenue despite selling fewer units than Accessories.
+- Bikes also generated the highest total profit at approximately 11.51 million.
+- Accessories had the highest profit margin at 62.59%, compared with 40.63% for Bikes and 40.14% for Clothing.
+- Overall, Bikes are the main driver of absolute revenue and profit, while Accessories perform particularly strongly in unit sales and profit-margin efficiency.
+
+2. Sales Trend Analysis
+
+The dataset contains sales from 29 December 2010 to 28 January 2014, meaning 2010 and 2014 are only partial years and should not be used for fair full-year comparisons.
+
+For the complete years, revenue fell from approximately 7.08 million in 2011 to 5.84 million in 2012, before increasing sharply to approximately 16.35 million in 2013.
+
+The 2012 decline appears across several months rather than being caused by one isolated weak month.
+
+2013 shows sustained improvement across the year, with monthly revenue frequently exceeding 1 million.
+
+December 2013 was the strongest month in the full-year comparison, generating approximately 1.87 million in revenue.
+
+The strong finish to 2013 suggests positive sales momentum, although 2014 is incomplete and should not yet be interpreted as a full-year decline.
+
+ 3. Geography Analysis
+
+- Australia was the highest-performing individual sales territory, generating approximately 9.06 million in revenue.
+- However, when all United States territories were combined at country level, the United States generated the highest total revenue at approximately 9.39 million, narrowly ahead of Australia.
+- The United States also generated the highest total profit at approximately 3.90 million, followed by Australia at approximately 3.69 million.
+- Canada had the highest profit margin at 41.96%, followed closely by the United States at 41.54%.
+- Australia ranked second for total revenue and profit but had the lowest profit margin at 40.67%.
+- Profit margins were relatively similar across all countries, with only a small difference between the highest and lowest margins. This suggests that geography has a stronger effect on total sales volume and revenue than on profit-margin efficiency.
+- Overall, the United States is the strongest market by total revenue and profit, while Australia is the strongest individual sales territory.
