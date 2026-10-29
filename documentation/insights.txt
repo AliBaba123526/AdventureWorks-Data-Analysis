@@ -30,3 +30,12 @@ The strong finish to 2013 suggests positive sales momentum, although 2014 is inc
 - Australia ranked second for total revenue and profit but had the lowest profit margin at 40.67%.
 - Profit margins were relatively similar across all countries, with only a small difference between the highest and lowest margins. This suggests that geography has a stronger effect on total sales volume and revenue than on profit-margin efficiency.
 - Overall, the United States is the strongest market by total revenue and profit, while Australia is the strongest individual sales territory.
+
+ 4. Customer Analysis
+
+- Nichole Nara generated the highest individual customer revenue at approximately 13,295, although the top customers were very closely grouped.
+- The customers placing the most orders were not the same customers generating the most revenue. This shows that purchase frequency alone does not determine customer value.
+- Some customers had very high average order values but relatively few orders, while the highest-revenue customers tended to combine reasonable order frequency with relatively high order values.
+- Nichole Nara generated the most revenue through a strong combination of order frequency and average order value rather than being the highest on either individual measure.
+- Customer revenue is not concentrated around one dominant customer. The top 10 customers contributed only approximately 0.44% of total internet sales revenue.
+- Overall, customer value is driven by a combination of purchase frequency and order value, while the low top-10 revenue concentration suggests Adventure Works has a broadly distributed customer revenue base.
